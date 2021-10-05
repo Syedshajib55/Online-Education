@@ -4,6 +4,7 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 10px;
     margin-bottom: 30px;
+    border-top: 3px solid violet;
 }
 .text-decoration{
     text-decoration: none;
