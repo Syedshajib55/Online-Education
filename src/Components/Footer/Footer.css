@@ -1,0 +1,10 @@
+.footer{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    margin-bottom: 30px;
+}
+.text-decoration{
+    text-decoration: none;
+}

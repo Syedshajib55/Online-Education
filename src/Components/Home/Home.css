@@ -1,0 +1,11 @@
+.home{
+    margin-top: 20px;
+    margin: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.hometitle, .trending{
+    color: rgb(224, 151, 15);
+}

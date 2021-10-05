@@ -1,0 +1,10 @@
+.webname{
+    padding: 10px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-bottom: 20px;
+}
+.nav li{
+    list-style-type: none;
+}
